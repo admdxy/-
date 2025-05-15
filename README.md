@@ -1,0 +1,2 @@
+请使用下面的链接导入香色闺阁书源：
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/984105955/98bb9a5c-60e9-427f-bfe9-e4cd3a36bf4e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250515%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250515T121325Z&X-Amz-Expires=300&X-Amz-Signature=cdedbc1f9909c2e34be2639266e3d1b5ea25840640e80be32308d164a8920db7&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Ddefault.xbs&response-content-type=application%2Foctet-stream
